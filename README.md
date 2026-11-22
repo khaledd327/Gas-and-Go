@@ -9,8 +9,8 @@ The project aims to make fuel ordering more convenient by allowing customers to 
 
 ## Team Members
 - Khaled Salaas
-- [Sultan Alyafei]
-- [Khaled Ahmed]
+- Sultan Alyafei
+- Khaled Ahmed
 
 ## Problem
 Traditional refuelling requires drivers to visit a petrol station. This may be inconvenient for customers with busy schedules.
